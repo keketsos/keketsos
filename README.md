@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 Languages/tools
-(https://cdn-icons-png.flaticon.com/512/732/732212.png)
+
 <!---
 keketsos/keketsos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
